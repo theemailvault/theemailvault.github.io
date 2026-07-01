@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://theemailvault.github.io/sitemap.xml
